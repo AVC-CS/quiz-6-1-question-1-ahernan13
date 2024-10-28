@@ -24,7 +24,7 @@ int getNextPrime(int begin) {
         if (isPrime) {
             return num;
         }
-        num;
+        num++;
     }
 }
 int getPrevPrime(int end) {
